@@ -9,7 +9,6 @@ body {
 }
 
 .bw-profile img {
-  width: 100vh;
-  height: 100vw;
+  width: -webkit-fill-available;
   object-fit: cover;
 }
