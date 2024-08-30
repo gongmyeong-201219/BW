@@ -3,6 +3,11 @@ body {
         width: 100vw;
         margin: 0;
       }
+
+.bw-profile {
+        pointer-events: none;
+}
+
 .bw-profile img {
   width: 100vh;
   height: 100vw;
